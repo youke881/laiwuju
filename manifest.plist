@@ -16,13 +16,13 @@
                         <key>kind</key>
                         <string>display-image</string>
                         <key>url</key>
-                        <string>https://https://chaoshan.me/57.png</string><!--修改这里-->
+                        <string>https://github.com/youke881/laiwuju/blob/b435f131ab8a279585b34677c82e466bff8db3b9/57.png</string><!--修改这里-->
                     </dict>
                     <dict>
                         <key>kind</key>
                         <string>full-size-image</string>
                         <key>url</key>
-                        <string>https://chaoshan.me/512.png</string><!--修改这里-->
+                        <string>https://github.com/youke881/laiwuju/blob/b435f131ab8a279585b34677c82e466bff8db3b9/512.png</string><!--修改这里-->
                     </dict>
                 </array>
                 <key>metadata</key>
